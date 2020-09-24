@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\bin\Debug\TicTacToe2.0.exe
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\bin\Debug\TicTacToe2.0.pdb
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\bin\Debug\Guna.UI2.dll
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2.0.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2._0.Form1.resources
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2._0.Properties.Resources.resources
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2.0.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2.0.csproj.CopyComplete
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2.0.exe
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2.0.pdb
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\bin\Debug\MetroFramework.dll
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\diego\source\repos\Projeto_Final01\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2._0.Form2.resources
